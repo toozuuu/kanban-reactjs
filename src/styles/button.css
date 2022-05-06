@@ -1,0 +1,18 @@
+.save-btn-outer{
+    text-align: center;
+    width: 100%;
+}
+
+.save-btn{
+   margin-top: 5vh;
+   margin-bottom: 5vh;
+}
+
+.cancle-btn{
+    margin-right: 5px;
+}
+
+.custom-btn{
+    background-color:"#0288d1";
+    color: white;
+}
